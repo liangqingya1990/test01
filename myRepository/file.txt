@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-mmbBranch
-=======
-mmbBranch
->>>>>>> flag1
+nnaBranch
